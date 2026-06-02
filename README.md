@@ -34,6 +34,7 @@ influenza patients (adj. p < 0.05) out of 15,556 genes tested.
 R, limma, edgeR, ggplot2, pheatmap
 
 ## Note
-
 This was a 4-person group project. This repository contains my individual 
-contribution to the project — the differential expression analysis component.
+contribution — the differential expression analysis component. The full group 
+project repository including pathway enrichment analysis and final report can 
+be found here: https://github.com/NakamuraNamie/Group1-FinalProject
